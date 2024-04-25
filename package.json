@@ -1,0 +1,15 @@
+{
+    "name": "salesforce-api-example",
+    "version": "1.0.0",
+    "description": "An example of querying Salesforce API using Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.24.0"
+    }
+  }
+  
